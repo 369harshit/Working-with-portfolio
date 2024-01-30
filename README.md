@@ -30,4 +30,40 @@ Part-B: Compute Portfolio Characteristics
 
 
 
+Project Title: CAPM-Based Portfolio Optimization
+
+Objective: Conducted targeted analysis to precisely optimize portfolios using CAPM and Sharpe ratio.
+
+Responsibilities:
+Data Collection: Gathered historical financial data for selected assets.
+CAPM Analysis: Estimated asset returns based on systematic risk, market return, and risk-free rate.
+Portfolio Allocation: Implemented strategic allocations considering risk and return profiles.
+Sharpe Ratio Calculation: Computed Sharpe ratios for evaluating risk-adjusted performance.
+Optimization Techniques: Applied mathematical optimization for maximizing returns at a defined risk level.
+Performance Metrics: Evaluated portfolios using key metrics - Sharpe ratio, standard deviation, and expected return.
+Visualization: Created clear visuals of portfolio performance and trade-offs.
+Report Generation: Produced a concise report on allocations, optimization, and key metrics.
+
+Tools Used:
+Python (Pandas, NumPy)
+CAPM modeling tools
+Mathematical optimization (e.g., scipy)
+Data visualization (Matplotlib, Seaborn)
+
+Results:
+Delivered optimized portfolios achieving a balanced risk-return profile. Sharpe ratio analysis provided insights for data-driven investment decisions.
+
+Impact:
+Implemented CAPM strategies to enhance risk management and returns, demonstrating proficiency in quantitative analysis for informed investment decision-making.
+
+
+
+
+
+
+
+
+
+
+
 
